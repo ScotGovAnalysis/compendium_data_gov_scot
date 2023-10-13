@@ -1,0 +1,96 @@
+---
+title: "Data by publication"
+author: "`r as.character(Sys.info()[7])`"
+date: "`r Sys.Date()`"
+sgtemplates:
+  footer:
+    link:
+      - href: "privacy.html"
+        text: "Privacy"
+      - href: "cookies.html"
+        text: "Cookies"
+      - href: "accessibility.html"
+        text: "Accessibility"
+      - href: "contact.html"
+        text: "Contact"
+  header:
+    phase_banner:
+      tag: "WIP"
+      text: "This is a work in progress."
+    site_branding: "Scottish Government"
+  metadata:
+    label: "Collection"
+  navigation:
+    breadcrumb_trail:
+      - text: "Home"
+      - text: "Data by publication"
+    toc:
+      sticky: false
+  seo:
+    description: "SEO (search engine optimisation) description"
+    keywords: "SEO, keywords, comma, separated"
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Scottish Agricultural Census
+
+## Introduction
+
+Provides Scotland totals from the published results of the annual June Scottish Agricultural Census.
+
+## Scottish Agricultural Census: results
+
+*  [Scottish Agricultural Census: final results - June 2021](https://www.gov.scot/publications/results-scottish-agricultural-census-june-2021/documents/)
+
+*  [Scottish Agricultural Census: final results - June 2020](https://www.gov.scot/publications/scottish-agricultural-census-final-results-june-2020/documents/)
+
+*  [Scottish Agricultural Census: final results - June 2019](https://www.gov.scot/publications/final-results-june-2019-agricultural-census/documents/)
+
+*  [Scottish Agricultural Census: final results - June 2018](https://www.gov.scot/publications/results-june-2018-scottish-agricultural-census/documents/)
+
+*  [Scottish Agricultural Census: final results -  June 2017](https://www.gov.scot/publications/results-june-2017-scottish-agriculture-census/documents/)
+
+# Total income from farming
+
+## Introduction
+
+The official measure of the net income gained by the agriculture industry in Scotland.
+
+## Total income from farming: results
+
+*  [Total Income from Farming Estimates: 2018-2020](https://www.gov.scot/publications/total-income-farming-estimates-2018-2020/documents/)
+
+*  [Total Income from Farming Estimates: 2017-2019](https://www.gov.scot/publications/total-income-farming-estimates-scotland-2017-19/documents/)
+
+*  [Total Income from Farming Estimates: 2016-2018](https://www.gov.scot/publications/total-income-farming-estimates-scotland-2016-18/documents/)
+
+*  [Total Income from Farming Estimates: 2015-2017](https://www.gov.scot/publications/total-income-farming-estimates-fo-scotland-2015-2017/documents/)
+
+*  [Total Income from Farming Estimates: 2014-2016](https://www.gov.scot/publications/total-income-farming-estimates-scotland-2014-2016/documents/)
+
+# Scottish farm business income (FBI)
+
+## Introduction
+
+Farm business level estimates of average incomes from commercial farms in Scotland.
+
+## Farm business income (FBI): annual estimates
+
+*  [Scottish farm business income: annual estimates 2021-2022](https://www.gov.scot/publications/scottish-farm-business-income-annual-estimates-2021-2022/documents/)
+
+*  [Scottish farm business income: annual estimates 2020-2021](https://www.gov.scot/publications/scottish-farm-business-income-annual-estimates-2020-2021/documents/)
+
+*  [Scottish farm business income: annual estimates 2019-2020](https://www.gov.scot/publications/scottish-farm-business-income-annual-estimates-2019-2020/documents/)
+
+*  [Scottish farm business income: annual estimates 2018-2019](https://www.gov.scot/publications/scottish-farm-business-income-annual-estimates-2018-2019/documents/)
+
+*  [Scottish farm business income: annual estimates 2017-2018](https://www.gov.scot/publications/scottish-farm-business-income-estimates-2017-18/documents/)
+
+## Farm level emissions and nitrogen use
+
+*  [Farm Business Survey 2021-22: Farm level emissions and nitrogen usage](https://www.gov.scot/publications/farm-business-survey-2021-22-farm-level-emissions-and-nitrogen-usage/documents/)
+
+<!-- [Records going back to 1999 may be accessed at our online archive.](https://webarchive.nrscotland.gov.uk/20200114064159/https://www2.gov.scot/Topics/Statistics/Browse/Agriculture-Fisheries/PubFinalResultsJuneCensus) -->

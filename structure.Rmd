@@ -1,0 +1,69 @@
+---
+title: "Structure of Scottish agriculture"
+author: "`r as.character(Sys.info()[7])`"
+date: "`r Sys.Date()`"
+sgtemplates:
+  footer:
+    link:
+      - href: "privacy.html"
+        text: "Privacy"
+      - href: "cookies.html"
+        text: "Cookies"
+      - href: "accessibility.html"
+        text: "Accessibility"
+      - href: "contact.html"
+        text: "Contact"
+  header:
+    phase_banner:
+      tag: "WIP"
+      text: "This is a work in progress."
+    site_branding: "Scottish Government"
+  metadata:
+    label: "Collection"
+  navigation:
+    breadcrumb_trail:
+      - text: "Home"
+      - text: "Agricultural Compendium"
+      - text: "Structure of Scottish agriculture"
+      
+    toc:
+      sticky: false
+  seo:
+    description: "SEO (search engine optimisation) description"
+    keywords: "SEO, keywords, comma, separated"
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Structure of Scottish agriculture
+
+## Introduction
+
+Provides Scotland totals from the published results of the annual June Scottish Agricultural Census.
+
+## Land use
+
+Chart content.
+
+## Agricultural area
+
+Chart content. Total agricultural land area by nation. Percentage of LFA/non-LFA by nation
+
+## Farm types
+
+Chart content. Number of holdings by farm type. Area of agricultural land by farm type
+
+## Labour
+
+Chart content. Number of agricultural workforce by employment type. Percentage of workforce employed in agriculture
+
+<!-- ## Structure of Scottish agriculture: results -->
+
+<!-- *  [Scottish Agricultural Census: final results - June 2021](https://www.gov.scot/publications/results-scottish-agricultural-census-june-2021/documents/) -->
+
+<!-- *  [Scottish Agricultural Census: final results - June 2020](https://www.gov.scot/publications/scottish-agricultural-census-final-results-june-2020/documents/) -->
+
+
+<!-- [Records going back to 1999 may be accessed at our online archive.](https://webarchive.nrscotland.gov.uk/20200114064159/https://www2.gov.scot/Topics/Statistics/Browse/Agriculture-Fisheries/PubFinalResultsJuneCensus) -->

@@ -1,0 +1,35 @@
+name: "Example Scottish Government Website"
+title-prefix: "data.gov.scot"
+navbar:
+  left:
+    - text: "Agricultural Statistics"
+      href: "index.html"
+    - text: "Data by publication"
+      href: "data_publication_list.html"
+    - text: "Agricultural Compendium"
+      href: "compendium.html"
+    - text: "Agricultural and the economy"
+      href: "economy.html"
+    - text: "Structure of Scottish agriculture"
+      href: "structure.html"
+    - text: "Crops"
+      href: "crops.html"
+    - text: "Livestock"
+      href: "livestock.html"
+    - text: "Agricultural and the environment"
+      href: "environment.html"
+    - text: "Food and drink"
+      href: "food.html"
+    - text: "Data by topic"
+      href: "data_topic_list.html"
+output:
+  html_document:
+    code_download: false
+    df_print: paged
+    fig_caption: true
+    number_sections: false
+    self_contained: false
+    template: "_template.html"
+    toc: true
+    toc_depth: 2
+    toc_float: false

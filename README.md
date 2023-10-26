@@ -5,7 +5,7 @@
 To create a new .Rmd file, go to ``` New Blank File -> R Markdown ```, name your file and press okay. This will create a new blank .Rmd file in your current working directory. Next copy and paste a previous .Rmd script and work from there.
 
 ## index.Rmd landing page
-The index.Rmd is commonly used as the landing page for the website. Use this page as an intorduciton to the website. For the compendium product, the index.Rmd has been edited to produce a .html file called "Agricultural Statistics". This is the first highlisted tab in the nav bar shown.
+The index.Rmd is commonly used as the landing page for the website. For the compendium product, the index.Rmd has been edited to produce a .html file called "Agricultural Statistics". This is the first highlisted tab in the nav bar shown.
 ![image](https://github.com/DavidFrenchSG/compendium_data_gov_scot/assets/144359744/172bfeba-b961-4f48-beae-8234eae2db16)
 
 ## Configure .Rmd webpage

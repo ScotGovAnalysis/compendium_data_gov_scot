@@ -5,11 +5,11 @@
 To create a new .Rmd file, go to ``` New Blank File -> R Markdown ```, name your file and press okay. This will create a new blank .Rmd file in your current working directory. Next copy and paste a previous .Rmd script and work from there.
 
 ## index.Rmd landing page
-The index.Rmd is commonly used as the landing page for the website.
+The index.Rmd is commonly used as the landing page for the website. Use this page as an intorduciton to the website. For the compendium product, the index.Rmd has been edited to produce a .html file called "Agricultural Statistics". This is the first highlisted tab in the nav bar shown.
 ![image](https://github.com/DavidFrenchSG/compendium_data_gov_scot/assets/144359744/172bfeba-b961-4f48-beae-8234eae2db16)
 
 ## Configure .Rmd webpage
-The webpage is configured in the first 31 lines of code in a new .Rmd script. 
+The webpage is configured in the first 31 lines of code in a new .Rmd script. Shown below:
 ![image](https://github.com/DavidFrenchSG/compendium_data_gov_scot/assets/144359744/6a705ca2-9bbd-4e10-bdbf-d5ca627f6e55)
 ### Title, Author and Date
 ```
@@ -52,9 +52,9 @@ Use this section to assign a  label to the webpage. The breadcrumb trail allows 
 ## Configure _site.yml file (website template)
 The ```_site.yml``` file configures the website as a whole. 
 
-The navbar creates the tabs for the website, arranging them as they are ordered in the script.
+The navbar creates the tabs for the website structure. Navbar "topics", (Agricultural and the economy, Structure of Scottish Agriculture, Livestock etc) appear on the website as they are ordered in the script.
 
-In a case where certain modules are not being published in the compendium, e.g. **Livestock**, then ``` - text: "Livestock" ``` and ``` href: "livestock.html ``` can be easily commented out of the script with a '#' symbol.
+In a case where certain modules are not being published in the compendium, e.g. **Livestock**, then ``` - text: "Livestock" ``` and ``` href: "livestock.html ``` can be easily commented out of the script with a '#' symbol. This will disengage the specific .Rmd (and subsequent .html) file, and allow the website to run as normal.
 ```
 name: "Agricultural Compendium"
 title-prefix: "data.gov.scot"
